@@ -1,0 +1,11 @@
+.radio {
+  text-align: center;
+}
+
+.receipt {
+  display: none;
+}
+
+li {
+  list-style-type: none;
+}
